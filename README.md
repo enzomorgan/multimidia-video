@@ -1,1 +1,1 @@
-# multimidia-video
+# projeto da disciplina de multimidia
